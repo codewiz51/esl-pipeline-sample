@@ -1,0 +1,248 @@
+############################################################
+FIVE-MINUTE LESSON TEMPLATE (MARKDOWN OUTPUT)
+############################################################
+
+You are generating the Five-Minute Reinforcement Lesson for this
+week, as a standalone Markdown document (separate from the Main
+lesson, not appended to it).
+
+It MUST follow the structure and rules below.
+
+============================================================
+OUTPUT FORMAT (MARKDOWN REQUIRED)
+============================================================
+
+#BEGIN RULES: MINI_STORY_ALIGNMENT
+The Mini Story MUST be a compressed retelling of the main lesson's story for that day.
+It MUST use the same characters, setting, and events.
+The real rule on characters: do NOT introduce a character
+who does not appear in that day's own #BEGIN DAYNAME_STORY
+block below. A character who DOES appear there is valid
+even if she is not yet listed in CHARACTER_DICTIONARY —
+that dictionary is a running reference, not an exhaustive
+whitelist (see CHARACTER_DICTIONARY). What you may NOT do
+is invent a character who appears in neither the day's
+story block nor the dictionary.
+It MUST NOT invent new events.
+It MUST NOT change the setting.
+It MUST NOT add details that do not appear in the main lesson.
+It MUST compress the main story into 4–6 sentences.
+#END RULES: MINI_STORY_ALIGNMENT
+
+#BEGIN RULES: MINI_STORY_EVENT_SCOPE
+The Mini Story MUST ONLY use events that appear in the main lesson's story for that day.
+The Mini Story MUST NOT change the mode of transportation used in the main lesson.
+The Mini Story MUST NOT introduce new actions for characters that do not appear in the main lesson's story for that day.
+The Mini Story MUST NOT generalize to other café events.
+The Mini Story MUST NOT reuse events from other days.
+The Mini Story MUST NOT invent new events.
+The Mini Story MUST compress ONLY the events from that day's main story.
+#END RULES: MINI_STORY_EVENT_SCOPE
+
+#BEGIN RULES: REGIONAL_SPANISH_REGISTER
+Spanish MUST follow these register rules:
+  - "pa'" and "pa'l" allowed
+  - Do NOT use "chamba"
+  - "lonchera" = lunchbox only
+  - "almuerzo para llevar" = sack lunch (NOT "almuerzo en bolsa" or
+    "almuerzo en llevar")
+  - "bring" (toward here) = "traer"; "take" (to another place) = "llevar"
+#END RULES: REGIONAL_SPANISH_REGISTER
+
+#BEGIN RULES: LANGUAGE_LEVEL
+Target level: A2 → A2+. It's a 5-minute quick lesson.
+This applies to every section of the document,
+not only the Mini Story.
+Use simple present, simple past, going to, will (simple future), can, should.
+Avoid present perfect and past perfect.
+Simple first conditional is fine (e.g. "If she is late, she
+takes the bus alone.").
+Keep sentences concrete. Avoid comparative
+phrasing ("like a suggestion"), idiomatic time
+expressions ("the moment the alert sounds"), and
+abstract descriptions of grammar itself (what a
+word "means," "carries," or "invites"). Explain
+what a character does, not what a word represents.
+Avoid long technical explanations.
+#END RULES: LANGUAGE_LEVEL
+
+#BEGIN RULES: QUESTION_HINTS
+Every Student Questions item MUST include exactly one hint: a
+single word or one short fixed phrase, in parentheses,
+immediately after the question mark.
+  Example: What did Nora do after her shift? (drink water)
+
+Hints MUST be one word or one short fixed phrase. Never a list
+of options, never a full sentence.
+The hint MUST NOT be the answer. Give a Spanish word or phrase
+that helps, e.g. "(renovar la receta)".
+#END RULES: QUESTION_HINTS
+
+#BEGIN RULES: CHARACTER_DICTIONARY
+Recurring characters, for correct name, spelling, and role.
+This is a running reference, not an exhaustive whitelist —
+see MINI_STORY_ALIGNMENT for the actual rule on which
+characters may appear in the Mini Story.
+Nora – café barista, single mother
+Lila – Nora's daughter
+Pia – Hana's daughter, Lila's friend
+Hana – neighbor, energetic, walks with Nora
+Sam Ellis – owner of the café
+Bea – coworker
+Omar – cook
+Wren – cashier
+Teo – bakery delivery driver
+Ben - Sam's son, part-time bookkeeper for the café
+Ivy - the café's part-time barista
+Kit - the café's new weekend manager who will be covering weekends going forward.
+Ivan - Nora's brother, also an immigrant. Married to Yara.
+Yara - Nora's sister-in-law, sometimes picks up Lila and Pia from school. Married to Ivan.
+Luis - Nora's oldest brother, late 40s, lives with his wife in the family's home country.
+#END RULES: CHARACTER_DICTIONARY
+
+#BEGIN RULES: PER_DAY_VOCAB_SOURCE
+Vocabulary for each day MUST come ONLY from the
+#BEGIN DAYNAME_VOCAB / #END DAYNAME_VOCAB block for that day,
+supplied below this template.
+Do NOT import vocabulary from other days.
+#END RULES: PER_DAY_VOCAB_SOURCE
+
+#BEGIN RULES: PER_DAY_STORY_SOURCE
+The Mini Story for each day MUST be based ONLY on the
+#BEGIN DAYNAME_STORY / #END DAYNAME_STORY block for that day,
+supplied below this template. This is the English text of the
+actual main lesson story for that day, already written.
+Do NOT use a day's story block for any other day.
+Do NOT invent events, characters, or details not present in
+that day's story block.
+#END RULES: PER_DAY_STORY_SOURCE
+
+#BEGIN RULES: FIVEMINUTE_FORMAT
+You MUST generate one Five-Minute lesson block for EACH DAY
+present in the supplied story/vocab material below this template.
+Use the exact day names, ALL CAPS.
+If a day does NOT appear in the supplied material, do NOT
+generate a block for it.
+
+Output plain Markdown text only. Do NOT use any HTML tags
+anywhere in the output. This is not HTML.
+
+1. Each day heading MUST be exactly one line, using a single
+   "#", ALL CAPS, the day name only:
+     # MONDAY
+     # TUESDAY
+     # WEDNESDAY
+     # THURSDAY
+     # FRIDAY
+     # SATURDAY
+     # SUNDAY
+   Nothing else may appear on that line. Do NOT include the
+   words "Five Minute Lesson" or anything else on the day
+   heading line.
+
+2. Section headings MUST use "##" and MUST be exactly one of
+   the following, spelled and capitalized exactly as shown:
+     ## Vocabulary Review
+     ## Grammar Focus
+     ## Mini Story
+     ## Translation Practice
+     ## Student Questions
+   Do NOT invent new section headings.
+   Do NOT reorder, rename, merge, or split these.
+   Do NOT use "###" or any heading level deeper than "##"
+   anywhere in the document.
+
+3. Vocabulary Review:
+   - Numbered Markdown list ("1.", "2.", ...).
+   - MUST reuse items from that day's supplied vocabulary list.
+   - MUST NOT introduce new vocabulary.
+   - If the supplied vocabulary list has more than 4 items,
+     KEEP THE FIRST FOUR IN ORDER and drop the rest.
+   - If it has fewer than 4 items, use all available items.
+
+4. Grammar Focus:
+   - Plain paragraph, 1–3 sentences, no list.
+   - Highlight one grammar point that appears naturally
+     in that day's Mini Story below. Show it through what
+     a character does.
+   - The test: a CHARACTER must be the subject doing
+     something ("Ivan gives advice with 'should'" is
+     fine — Ivan is the one acting). Do NOT make the
+     WORD ITSELF the subject of a definition ("'should'
+     shows obligation" or "'should' means X" is NOT
+     allowed — that is explaining what the word represents,
+     not what the character does). See LANGUAGE_LEVEL.
+   - The paragraph MUST quote the English target word or
+     form in double quotes, the way it appears in the Mini
+     Story (e.g. Nora uses "feels" to say she is tired).
+     A paragraph that never names the grammar point (e.g.
+     "She tells the reader why she is not okay") teaches
+     nothing and is NOT allowed.
+
+5. Mini Story:
+   - Numbered Markdown list ("1.", "2.", ...) of 4–6 sentences.
+   - English only. Do NOT include a Spanish version.
+   - Simple present or simple past.
+   - Sentences MUST be 8–12 words.
+   - Allowed connectors: and, but, because.
+
+6. Translation Practice MUST use plain text labels, not
+   headings, to separate its two parts. There MUST be a blank
+   line between each label and the numbered list that follows
+   it — without that blank line, the label and list merge into
+   a single run-on paragraph when converted to Word, and the
+   numbering is lost:
+     Spanish → English
+
+     1. ...
+     2. ...
+
+     English → Spanish
+
+     1. ...
+   - Spanish→English: EXACTLY 2 items.
+   - English→Spanish: EXACTLY 1 item.
+   - All items MUST be 8–12 words and full sentences.
+   - Items under "Spanish → English" are written IN SPANISH.
+     The item under "English → Spanish" is written IN ENGLISH.
+     Never put a Spanish sentence under "English → Spanish".
+
+7. Student Questions:
+   - Numbered Markdown list ("1.", "2.").
+   - EXACTLY 2 questions: one comprehension, one personal.
+   - Each question MUST include a hint. See QUESTION_HINTS.
+   - The personal question is about the student's OWN life.
+     Nora's family and friends (Lila, Pia, Hana,
+     Ivan, Yara, Luis) are not hers: ask about "your
+     children", never "Did you spend time with Lila?".
+
+8. Separate each day's content from the next day's "#" heading
+   with a blank line, then a line containing only "---" (a
+   Markdown horizontal rule), then another blank line before
+   the next "#" heading. Do NOT use "---" anywhere else in the
+   document.
+
+9. Do NOT use any Markdown formatting other than what is
+   specified above: no bold, no italics, no tables, no
+   blockquotes, no code fences, no links, no images, no nested
+   lists, no "-"/"*" bullets.
+
+10. Do NOT wrap the output in a code fence. Do NOT start or end
+    the response with three backticks.
+
+11. Do NOT include any commentary, preamble, explanation, or
+    reasoning before or after the lesson content.
+
+12. MUST include all five sections listed above, for every day.
+13. MUST NOT omit Translation Practice or Student Questions.
+14. MUST NOT include a Spanish version of the Mini Story.
+15. MUST NOT include the full weekly lesson — Five-Minute
+    lessons only.
+16. Use UTF‑8 Spanish with correct accents in the Vocabulary
+    Review and Translation Practice sections. Preserve accents,
+    do not strip or convert them to ASCII.
+#END RULES: FIVEMINUTE_FORMAT
+
+============================================================
+END OF TEMPLATE
+============================================================

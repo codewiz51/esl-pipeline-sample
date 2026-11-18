@@ -1,0 +1,513 @@
+############################################################
+WEEK XX – MASTER LESSON TEMPLATE (REVISED – MARKDOWN OUTPUT)
+############################################################
+
+The weekly verb focus and day-specific content come from the
+storyboard content injected into the DAILY_STORIES section below.
+This master template MUST NOT hardcode any day-specific topics.
+
+#BEGIN RULES: LANGUAGE_LEVEL
+Target level: A2 → A2+ (a day's Vocabulary list MAY
+include a B1-level target word/idiom being taught that
+week — general story prose stays A2, see NARRATIVE_REWRITE).
+Use simple present, simple past, going to, will (simple future), can, should.
+Avoid present perfect, past perfect, and complex
+conditionals. Simple first conditional is fine
+(e.g. "If she is late, she will take the bus alone.").
+
+Avoid long technical explanations.
+
+See NARRATIVE_REWRITE for the interior-moment
+requirement on long-day stories.
+#END RULES: LANGUAGE_LEVEL
+
+#BEGIN RULES: SENTENCE_STYLE
+Story prose reads like a simple graded reader:
+short, plain sentences, one idea each.
+No dashes in story prose. No figurative
+language ("like a man waiting for pain
+to find him"). Say what happens.
+
+The English half of the Story section MUST NOT contain untranslated
+Spanish words in the narration - this includes family terms like
+"tío," "mija," "abuela," etc. Use the English equivalent ("uncle,"
+"sweetie," "grandma") in English narration and English dialogue tags.
+Spanish may appear in the English Story ONLY inside a character's
+directly quoted dialogue, and only when it is a deliberate teaching
+moment the story is built around (e.g., a character saying a Spanish
+or slang word that another character does not understand, as with
+Bea's "cheesy" moment). An incidental Spanish word dropped into
+ordinary English narration is not that - remove it.
+#END RULES: SENTENCE_STYLE
+
+#BEGIN RULES: SPANISH_ACCURACY
+See MARKDOWN_LAYOUT for the accent/encoding mechanic.
+Spanish must be natural, everyday Spanish — everyday spoken
+register, not formal or literal translation.
+Two-step process: first identify what the English sentence
+means in everyday, conversational English (the way people
+actually talk, often using "get" or "have" rather than a
+more formal verb) — then render THAT meaning in natural,
+everyday Spanish. Do NOT translate the formal/literal
+English directly; translate the everyday meaning.
+The Spanish should teach the student what the English
+actually means in real everyday conversation, not just supply
+a grammatically correct equivalent.
+Use the REGIONAL_REGISTER dictionary when relevant.
+#END RULES: SPANISH_ACCURACY
+
+#BEGIN RULES: STORY_LENGTH
+Long days (Mon, Thu, Fri, Sat):
+ 140–180 words, English side only.
+ The range prevents both truncation and
+ padding.
+ Do not pad to hit the floor.
+ A 142-word story is better than a 152-word
+ story with two filler adverbs.
+
+Short days (Tue, Wed, Sun):
+ 6–8 sentences on the English side;
+ the Spanish is a matching translation.
+ 9 is acceptable if the story needs it.
+ 5 is not acceptable.
+
+Vocabulary on short days: 3–5 items.
+Warm-up on short days: 1–2 questions.
+Examples on short days: 3–4 items.
+Student questions on short days: 3–4 items.
+
+Translation Practice items:
+ One sentence per item.
+ Give ONLY the sentence to translate.
+ Do NOT include the answer or an arrow.
+ Spanish → English items are written in
+ Spanish. English → Spanish items are
+ written in English.
+
+Spanish→English: 6 items on long days,
+ 2 items on short days.
+English→Spanish: 2 items on all days.
+
+Translation Practice MUST NOT reuse
+vocabulary words unless they appear
+naturally in the story.
+#END RULES: STORY_LENGTH
+
+#BEGIN RULES: READING_TRANSLATION
+Translation Practice MUST include at least one READING-FOCUSED
+item per day: workplace-relevant vocabulary, natural English
+phrasing (not literal Spanish structure).
+Spanish→English items MUST include at least one professional
+reading item.
+English→Spanish items MAY remain simple, but MUST include one
+workplace-relevant phrase.
+#END RULES: READING_TRANSLATION
+
+#BEGIN RULES: HINTS_AND_BLANKS
+Every Warmup blank, every Grammar Pattern Practice blank, and
+every Student Questions item MUST include exactly one hint.
+
+Hint format: a single word or one short fixed phrase, in
+parentheses, placed immediately after the sentence or after the
+question mark.
+  Blank example:    I ___ carefully before I leave. (hint)
+  Question example: What should you do when there is an air
+                     quality alert? (stay inside)
+
+Hints MUST be exactly one word, or one short fixed phrase
+(e.g. "should + verbo"). Never a list of options. Never a
+full sentence. Never a synonym pair.
+
+For a blank, the hint is the Spanish version of the answer,
+e.g. "(tuve)" for "had". For a Student Question, the hint is
+one Spanish word or short phrase that helps her answer,
+e.g. "(cita)". A hint is never the English answer.
+
+Every blank in Warmup and Grammar Pattern Practice MUST have
+exactly one correct answer. Do NOT write a blank that could be
+correctly filled by more than one item from that day's
+vocabulary list.
+
+Every blank, filled with its answer, MUST be a correct
+English sentence.
+
+#END RULES: HINTS_AND_BLANKS
+
+#BEGIN RULES: NARRATIVE_REWRITE
+Rewrite all Story Requirements bullets
+into a full narrative.
+Do NOT copy bullets.
+Do NOT output bullet lists.
+Convert all items into natural sentences.
+
+The rewrite is an expansion, not a
+transcription.
+  Add one character reaction not in
+  the bullets.
+  Add one sensory detail not in the
+  bullets (a sound, a smell, a texture,
+  a light, a temperature).
+  Use the day's vocabulary block and the
+  weekly verb focus where the story calls
+  for them. See Vocabulary Source Rules for
+  the cross-day import restriction.
+  Beyond that, the story prose may use any
+  common word — but aim for A2 word
+  complexity throughout.
+
+Each long-day story MUST contain:
+  • One main event. Not a list of things
+    that happen — one thing the story is
+    about.
+  • One moment of character interiority.
+  • One small conflict, choice, or surprise.
+    Not a crisis. A missed turn. A wrong
+    name. A customer who cancels an order. A kid who
+    will not stop talking. A coffee that
+    spills. Something small that makes
+    the story a moment instead of a list.
+  • One sentence where a character speaks
+    directly.
+  • One customer per main customer
+    interaction (except Friday).
+    Supporting characters may appear —
+    coworkers, other customers in line, family, neighbors — but they
+    are not the main customer. They add
+    texture.
+
+Short days (Tue, Wed, Sun):
+  • One character voice moment.
+  • Even a review day should read as
+    Nora living through the recap —
+    a porch, a drive, a quiet pause —
+    not a bulleted list of what happened.
+#END RULES: NARRATIVE_REWRITE
+
+#BEGIN RULES: STORY_QUALITY
+These are quality targets, not hard
+constraints.
+They do NOT override MARKDOWN_LAYOUT.
+They do NOT add sections, styles, or
+formatting.
+They govern prose only.
+
+HUMOR IS WELCOME WHEN NATURAL:
+ A wry aside. A small observation.
+ A line of dialogue that makes you
+ smile.
+ Humor MUST NOT be forced.
+ A story that does not need humor
+ should not get humor.
+ A story that is tense should not
+ get a joke.
+ The model judges this per story.
+
+THE STUDENT IS A SPEAKER, NOT AN OBSERVER:
+ The student is an adult woman, 28–36,
+ a single mother, formerly university-track,
+ now working in a service job.
+ This governs Warmup and Student Questions
+ phrasing ONLY — the first-person prompts
+ must invite her to speak as herself,
+ not observe Nora from outside.
+ She is NOT a character inside the
+ Story narrative. Nora's interior moment
+ (NARRATIVE_REWRITE) belongs to Nora alone;
+ the student does not get her own
+ narrative beat.
+#END RULES: STORY_QUALITY
+
+#BEGIN RULES: SECTION_CONTENT
+This block governs what text appears
+inside the existing sections.
+It does NOT add new section headings.
+It does NOT change the Markdown structure.
+
+Warmup:
+ 1–3 questions on long days.
+ 1–2 on short days.
+ MUST include at least one first-person
+ prompt where the student speaks as
+ herself, not as an observer of Nora.
+ Pattern examples:
+  "I usually ___ before work."
+  "I ___ carefully."
+  "I ___ to be a good worker when I am tired."
+ The blank "___" should relate to the day's verb focus or vocabulary.
+ Every blank MUST include a hint. See HINTS_AND_BLANKS.
+ A first-person prompt is about the student's OWN life. Nora's
+ family and friends (Lila, Pia, Hana, Ivan, Yara, Luis)
+ are NOT the student's family: never write them into a sentence as if
+ they were hers. Say "my daughter", "my son", "my children", "my
+ neighbor" instead.
+
+Vocabulary:
+ Long days: 4–6 bilingual word/idiom pairs.
+ Short days: 3–5 bilingual word/idiom pairs
+ (see STORY_LENGTH).
+ Not full sentences. Not clauses.
+ 
+Grammar:
+ One explanation of the day's grammar
+ point (max 3 sentences).
+ MUST include one substitution drill
+ (Pattern Practice):
+  3 items on long days, 2 on short days.
+  A frame sentence with blanks.
+  The student fills in.
+  The frame must use the week's verb
+  focus.
+  Every blank MUST include a hint. See HINTS_AND_BLANKS.
+ When the verb is "bring" or "take", teach
+ the contrast: "bring" = toward here, toward
+ the speaker ("traer"); "take" = to another
+ place, away from the speaker ("llevar").
+ Every "bring" blank is a moment of coming
+ toward here, and its hint is a form of
+ "traer". Do NOT write "bring" = "llevar".
+ Example (illustrative only — use the
+current week's verb focus, not the
+words shown here):
+ "I say ___ to ___.
+  You tell me ___.
+  She speaks ___ at the café.
+  I speak ___ when I am tired."
+
+Examples:
+ 3–4 items on short days.
+ 4–6 items on long days.
+ MUST include one short dialogue
+  (A/B, 4–6 lines) showing the day's
+ grammar in natural use.
+ Not a list of isolated sentences.
+ Characters from the CHARACTERS
+ dictionary.
+ The dialogue MUST feel like a
+ conversation, not a textbook exchange.
+ Include at least one natural,
+ non-textbook line
+ (a joke, a sigh, a "well...",
+ an interjection).
+ Format dialogue lines as:
+   Name: "Line of dialogue."
+ One line per turn. Do NOT use a table
+ or a script/screenplay format.
+
+Translation Practice:
+ (Unchanged. See STORY_LENGTH and
+  READING_TRANSLATION. See MARKDOWN_LAYOUT
+  rule 7 for the required layout.)
+
+Student Questions:
+ 3–4 items on short days.
+ 4–6 items on long days.
+ MUST include at least one question
+ that requires the student to answer
+ in first person about her own life.
+ Illustrative examples only, do not reuse verbatim:
+ - Did you go grocery shopping today?
+ - Did you clean the kitchen today?
+ - Did you pay the electric bill this month?
+ A question about the student's own life MUST NOT treat Nora's
+ family and friends (Lila, Pia, Hana, Ivan, Yara, Luis)
+ as the student's. Ask about "your children", "your daughter",
+ "your neighbor" — never "Did you spend time with Lila?" and never
+ "like Nora". Questions ABOUT the story may name its characters
+ ("What does Lila need for school?").
+ Every item MUST be phrased as a question (ending in '?').
+ Do NOT include fill-in-the-blank statements in this section.
+ Every question MUST include a hint. See HINTS_AND_BLANKS.
+#END RULES: SECTION_CONTENT
+
+#BEGIN RULES: MARKDOWN_LAYOUT
+All output MUST follow these Markdown layout rules.
+This is plain Markdown text, not HTML. Do NOT use any
+HTML tags anywhere in the output.
+
+1. Each day heading MUST be exactly one line, using a
+   single "#", ALL CAPS, the day name only:
+     # MONDAY
+     # TUESDAY
+     # WEDNESDAY
+     # THURSDAY
+     # FRIDAY
+     # SATURDAY
+     # SUNDAY
+   Do NOT use "Monday", "Day 1", "Week XX – Monday", or
+   any other form. Nothing else may appear on that line.
+
+2. Section headings MUST use "##" and MUST be exactly one
+   of the following, spelled and capitalized exactly as
+   shown:
+     ## Warmup
+     ## Vocabulary
+     ## Story
+     ## Grammar
+     ## Examples
+     ## Translation Practice
+     ## Student Questions
+   Do NOT invent new section headings.
+   Do NOT reorder, rename, merge, or split these.
+   Do NOT use "###" or any heading level deeper than "##"
+   anywhere in the document.
+
+3. The Story section MUST use exactly this structure —
+   no table, no other markup:
+
+     ## Story
+
+     **English:**
+
+     English paragraph 1.
+
+     English paragraph 2.
+
+     **Spanish:**
+
+     Spanish paragraph 1.
+
+     Spanish paragraph 2.
+
+   "**English:**" and "**Spanish:**" are the ONLY bold
+   text permitted anywhere in the document. Do NOT bold
+   anything else.
+
+4. Vocabulary, Examples, Translation Practice, Student
+   Questions, and Warmup MUST use numbered Markdown lists
+   ("1.", "2.", "3.", ...). Do NOT use "-" or "*" bullets
+   anywhere in your OUTPUT. (This rule governs the lesson
+   you produce, not this instruction document — the "•"
+   markers in NARRATIVE_REWRITE above are formatting for
+   you to read, not a pattern to reproduce.)
+
+5. Grammar's Pattern Practice items also use a numbered
+   Markdown list, continuing directly after the grammar
+   explanation paragraph — no separate heading for
+   "Pattern Practice", just the label "Pattern Practice:"
+   as a plain text line followed by the numbered list.
+
+6. Vocabulary list line format:
+     English word or idiom – Spanish palabra o modismo
+   One pair per numbered line.
+   Do NOT use punctuation other than the dash.
+   
+7. Translation Practice MUST use plain text labels, not
+   headings, to separate its two parts. There MUST be a blank
+   line between each label and the numbered list that follows
+   it — without that blank line, the label and list merge into
+   a single run-on paragraph when converted to Word, and the
+   numbering is lost:
+     Spanish → English
+
+     1. ...
+     2. ...
+
+     English → Spanish
+
+     1. ...
+     2. ...
+
+8. Do NOT use any Markdown formatting other than what is
+   specified above: no italics, no tables, no blockquotes,
+   no code fences, no horizontal rules, no links, no
+   images, no nested lists.
+
+9. Use UTF‑8 encoding for all Spanish text. Preserve
+   accents. Do NOT strip or convert them to ASCII.
+
+10. Do NOT wrap the output in a code fence. Do NOT start
+    or end the response with three backticks. Output raw
+    Markdown text only.
+
+11. Do NOT include any commentary, preamble, explanation,
+    or reasoning before or after the lesson content.
+
+12. Separate each day's content from the next day's "#"
+    heading with exactly one blank line. Do NOT add any
+    other separator (no "---", no "***").
+#END RULES: MARKDOWN_LAYOUT
+
+#BEGIN SECTION: DAILY_STORIES
++++ START WEEK XX +++
+
+=== START MONDAY ===
+Story Requirements:
+=== END MONDAY ===
+
+=== START TUESDAY ===
+Story Requirements:
+=== END TUESDAY ===
+
+=== START WEDNESDAY ===
+Story Requirements:
+=== END WEDNESDAY ===
+
+=== START THURSDAY ===
+Story Requirements:
+=== END THURSDAY ===
+
+=== START FRIDAY ===
+Story Requirements:
+=== END FRIDAY ===
+
+=== START SATURDAY ===
+Story Requirements:
+=== END SATURDAY ===
+
+=== START SUNDAY ===
+Story Requirements:
+=== END SUNDAY ===
+
++++ END WEEK XX +++
+#END SECTION: DAILY_STORIES
+
+#BEGIN DICTIONARY: CHARACTERS
+Nora – café barista, single mother.  Nora has a mild interest in Teo.
+Lila – Nora's daughter, age 11, friends with Pia
+Hana – neighbor, energetic, walks with Nora
+Pia - Hana's daughter, age 12,  friends with Lila
+Sam Ellis – owner of the café
+Bea – coworker
+Omar – cook
+Wren – café cashier, also has a hobby as a comedian in local comedy clubs.
+Teo – bakery delivery driver, also has an interest in Nora.
+Ben - Sam's son, part time bookkeeper for the café, handles invoices and taxes. Born in the US.
+Ivy - the café's part-time barista
+Kit - the café's new weekend manager who will be covering weekends going forward.
+Ivan - Nora's brother, also an immigrant. Married to Yara.
+Yara - Nora's sister-in-law, sometimes picks up Lila and Pia from school. Married to Ivan.
+Luis - Nora's oldest brother, late 40s. He and his wife live in the family's home country. Nora works partly to help her family there.
+
+NORA/TEO TONE NOTE: This is a light-hearted, occasional
+beat, not a developing storyline — do NOT escalate it week
+to week or let it become a main event (see NARRATIVE_REWRITE).
+Purpose: a small, funny, relatable moment that also gently
+shows how hard it is to date or maintain a relationship on
+a busy single mother's schedule — a missed chance to talk,
+a rushed hello, a text she means to answer and doesn't get
+to. Never soap-opera stakes. The target reader is in the
+same situation (young, single, raising kids) and should see
+herself in it, not a plot she's watching from outside.
+#END DICTIONARY: CHARACTERS
+
+#BEGIN DICTIONARY: REGIONAL_REGISTER
+"pa'" = "para" (informal, keep)
+"pa'l" = "para el" (informal, keep)
+"pa' la" = "para la" (informal, keep)
+"sack lunch" / "packed lunch" = "almuerzo para llevar" — NOT "almuerzo en
+  bolsa" or "almuerzo en llevar"
+"lonchera" = lunchbox (container), NOT the meal
+"porch" = "la terraza" — NOT "el porche"
+"bring" = "traer" (toward here, toward the speaker); "take" (to another
+  place, away from the speaker) = "llevar". Translate "bring" with a form
+  of "traer" and "take" with a form of "llevar".
+Do NOT use "chamba" for job; use "trabajo"
+"refill a prescription" = "renovar la receta" — NOT "recarga" (a recarga is
+  a phone or card top-up)
+"fussy" (a child) = "inquieto" / "llorón"
+"work through the questions" = "repasar las preguntas" — NOT "irse por las preguntas"
+#END DICTIONARY: REGIONAL_REGISTER
+
+############################################################
+END OF TEMPLATE FILE
+############################################################
